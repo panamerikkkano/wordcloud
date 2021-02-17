@@ -1,7 +1,7 @@
 # wordcloud
 
-preview ejercicio 1: https://huge-oatmeal.surge.sh
+preview ejemplo 1: https://word-island-1.surge.sh
 
-preview ejercicio 2: https://painstaking-name.surge.sh
+preview ejemplo 2: https://word-island-2.surge.sh
 
-preview ejercicio 2: https://decorous-ship.surge.sh
+preview ejemplo 3: https://word-island-3.surge.sh
